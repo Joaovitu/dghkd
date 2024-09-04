@@ -1,7 +1,7 @@
 :root {
-  --cor-fundo: #000000;
-  --cor-destaque: #FA160A;
-  --cor-texto: #FA3D00;
+  --cor-fundo: #35104A;
+  --cor-destaque: #33B4C2;
+  --cor-texto: #EAD8F4;
 }
 
 body {
@@ -17,7 +17,7 @@ a {
   color: var(--cor-destaque);
   font-size: 20px;
   text-decoration: none;
-  background-color: #2B3332;
+  background-color: #493152;
   padding: 10px 25px;
   margin: 10px;
   border-radius: 14px;
