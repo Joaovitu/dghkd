@@ -42,6 +42,7 @@ body {
 
 .apresentacao__links__link{
   width: 378px;
+  color: #d61717;
   border: 2px solid var(#d61717);
   font-size: 18px;                   
   text-decoration: none;
