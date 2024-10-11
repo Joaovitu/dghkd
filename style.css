@@ -5,7 +5,7 @@
 :root {
   --cor-fundo: #000000;
   --cor-destaque: #d61717;
-  --cor-texto: #c50a0a;
+  --cor-texto: #ffffff;
 }
 
 *{
@@ -42,7 +42,7 @@ body {
 
 .apresentacao__links__link{
   width: 378px;
-  background-color: #f44336;
+  background-color: #941911;
   color: white;
   border: 2px solid var(--cor-destaque);
   font-size: 18px;                   
