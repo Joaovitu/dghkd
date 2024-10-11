@@ -43,7 +43,7 @@ body {
 .apresentacao__links__link{
   width: 378px;
   color: rgb(255, 255, 255);
-  border: 2px solid var(#d61717);
+  border: 2px solid var(--cor-destaque);
   font-size: 18px;                   
   text-decoration: none;
   padding: 21.5px;
