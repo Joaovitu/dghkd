@@ -42,7 +42,8 @@ body {
 
 .apresentacao__links__link{
   width: 378px;
-  color: rgb(255, 255, 255);
+  background-color: #f44336;
+  color: white;
   border: 2px solid var(--cor-destaque);
   font-size: 18px;                   
   text-decoration: none;
