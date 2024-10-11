@@ -42,11 +42,11 @@ body {
 
 .apresentacao__links__link{
   width: 378px;
-  border: 2px solid var(--cor-destaque);
+  border: 2px solid var(#d61717);
   font-size: 18px;                   
   text-decoration: none;
   padding: 21.5px;
-  border-radius: 8px;
+  border-radius: 16px;
   text-align: center;
   font-weight: 600;
 }
